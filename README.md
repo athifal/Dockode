@@ -7,7 +7,7 @@ This program generates a hexagon pattern based on user-provided rows and columns
 
 ## Problem Statement
 
-Write a program that prints a hexagon pattern based on the given number of rows and columns. The hexagon pattern alternates between different segments in each row.
+Write a program that prints a hexagon pattern based on the given number of rows and columns. The hexagon pattern alternates between different segments in  each row.
 
 ### Design Samples
 
