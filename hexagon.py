@@ -78,9 +78,9 @@ def print_hexagon_pattern(rows, cols):
             a=a-1;
           for col in range(a):
               if col == 0:
-               print("    \\___/", end='   ')  # Print the initial string with spaces
+               print("    \\___/", end='   ')  
               else:
-               print(got, end='   ')  # Ensure got has no leading spaces
+               print(got, end='   ')  
           print()
             
 
